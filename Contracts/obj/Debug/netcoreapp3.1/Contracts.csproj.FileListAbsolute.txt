@@ -1,0 +1,8 @@
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb

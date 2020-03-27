@@ -1,0 +1,11 @@
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
