@@ -1,2 +1,14 @@
 
 *.lock
+AccountOwnerServer/.vs/AccountOwnerServer/v16/.suo
+AccountOwnerServer/.vs/AccountOwnerServer/DesignTimeBuild/.dtbcache
+AccountOwnerServer/.vs/AccountOwnerServer/v16/.suo
+AccountOwnerServer/.vs/AccountOwnerServer/v16/Server/sqlite3/storage.ide
+AccountOwnerServer/.vs/AccountOwnerServer/v16/Server/sqlite3/storage.ide-shm
+AccountOwnerServer/.vs/AccountOwnerServer/v16/Server/sqlite3/storage.ide-wal
+AccountOwnerServer/bin/Debug/netcoreapp3.1/AccountOwnerServer.dll
+AccountOwnerServer/bin/Debug/netcoreapp3.1/AccountOwnerServer.pdb
+AccountOwnerServer/obj/Debug/netcoreapp3.1/AccountOwnerServer.csprojAssemblyReference.cache
+AccountOwnerServer/obj/Debug/netcoreapp3.1/AccountOwnerServer.dll
+AccountOwnerServer/obj/Debug/netcoreapp3.1/AccountOwnerServer.pdb
+LoggerService/obj/Debug/netcoreapp3.1/LoggerService.csprojAssemblyReference.cache
