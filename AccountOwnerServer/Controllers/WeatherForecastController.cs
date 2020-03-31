@@ -12,21 +12,19 @@ namespace AccountOwnerServer.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-        private readonly ILoggerManager _logger;
+        private IRepositoryWrapper _repoWrapper;
 
-        public WeatherForecastController(ILoggerManager logger)
+        public WeatherForecastController(IRepositoryWrapper repoWrapper)
         {
-            _logger = logger;
+            _repoWrapper = repoWrapper;
         }
 
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            _logger.LogInfo("Here is info msg from controller.");
-            _logger.LogDebug("Here is debug msg from controller.");
-            _logger.LogWarn("Here is warn msg from controller.");
-            _logger.LogError("Here is error msg from controller.");
-
+            var domesticAccounts = _repoWrapper.Account.FindByCondition(x => x.AccountType.Equals("Domestic"));
+            var owners = _repoWrapper.Owner.FindAll();
+            
             return new string[] { "Hello", "World" };
         }
     }

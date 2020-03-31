@@ -9,3 +9,5 @@ C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\bin\Debug\netcoreapp3.1\Contr
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb

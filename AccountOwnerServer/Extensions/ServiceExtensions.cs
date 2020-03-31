@@ -9,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
 using Entities;
+using Repository;
 
 namespace AccountOwnerServer.Extensions
 {
@@ -39,6 +40,10 @@ namespace AccountOwnerServer.Extensions
         {
             var connectionString = config["mysqlconnection:connectionString"];
             services.AddDbContext<RepositoryContext>(options => options.UseMySql(connectionString));
+        }
+        public static void ConfigureRepositoryWrapper(this IServiceCollection services)
+        {
+            services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
         }
     }
 }

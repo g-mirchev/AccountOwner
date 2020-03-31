@@ -1,0 +1,13 @@
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

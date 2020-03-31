@@ -45,3 +45,5 @@ C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.MvcApplicationPartsAssemblyInfo.cache
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Repository.dll
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Repository.pdb
