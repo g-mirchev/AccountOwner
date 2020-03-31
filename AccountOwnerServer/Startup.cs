@@ -33,6 +33,7 @@ namespace AccountOwnerServer
             services.ConfigureLoggerService();
             services.ConfigureCors();
             services.ConfigureIISIntegration();
+            services.ConfigureMySqlContext(Configuration);
             services.AddControllers();
         }
 

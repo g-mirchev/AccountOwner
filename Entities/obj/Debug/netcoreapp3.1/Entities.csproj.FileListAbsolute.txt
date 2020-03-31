@@ -1,0 +1,8 @@
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
