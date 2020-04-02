@@ -25,7 +25,7 @@ namespace AccountOwnerServer.Controllers
             var domesticAccounts = _repoWrapper.Account.FindByCondition(x => x.AccountType.Equals("Domestic"));
             var owners = _repoWrapper.Owner.FindAll();
             
-            return new string[] { "Hello", "World" };
+            return new string[] { "Hello", "Wordl"};
         }
     }
 }

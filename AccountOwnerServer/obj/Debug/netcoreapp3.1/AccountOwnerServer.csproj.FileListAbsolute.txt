@@ -24,8 +24,6 @@ C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\obj\Debug\netcoreapp3.1\
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.pdb
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Entities.dll
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Entities.pdb
-C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
@@ -44,6 +42,7 @@ C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
-C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.MvcApplicationPartsAssemblyInfo.cache
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Repository.dll
 C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\K.G\DOCUMENTS\WebDev\AccountOwner\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.MvcApplicationPartsAssemblyInfo.cache
